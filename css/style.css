@@ -1377,6 +1377,15 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0 !important;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
 .fh5co-loader {
   position: fixed;
   left: 0px;
@@ -1390,5 +1399,12 @@ h1, h2, h3, h4, h5, h6, figure {
 .js .animate-box {
   opacity: 0;
 }
-
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
 /*# sourceMappingURL=style.css.map */

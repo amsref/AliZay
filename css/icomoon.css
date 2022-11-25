@@ -1569,3 +1569,17 @@
 .icon-youtube:before {
   content: "\ea80";
 }
+
+}
+.icon-tiktok:before {
+  content: "\e900";
+}
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
